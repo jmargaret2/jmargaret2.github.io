@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-permalink: /about/
+permalink: /about
 ---
 
 Hey! My name is Margaret Jagger and I'd like to say I'm a pretty big nerd when it comes to most things musical and tech. I love to spend my free time messing around with different instruments, and taking long walks with my dogs.
