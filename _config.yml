@@ -1,7 +1,28 @@
 theme: jekyll-theme-midnight
 title: "Margaret Jagger, Student at CoW"
 description: "A personal portfolio website"
-github:
-    zip_url: https://jmargaret2.github.io
 url                      : "https://jmargaret2.github.io"
 repository               : "jmargaret2/jmargaret2.github.io"
+# Site Author
+author:
+  name             : "Margaret Jagger"
+  avatar           : "/assets/images/profilePicture.JPG"
+  bio              : "I'm a student at The College of Wooster, double majoring in Computer Science and Music"
+  location         : "Somewhere"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:margaretjagger2@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jmargaret2"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/jmargaret2"
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jmargaret2"
