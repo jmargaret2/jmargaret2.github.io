@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Home
+layout: tags
+author_profile: true
 ---
 
-<h1>{{ "Hello World!" | downcase }}</h1>
+{% for post in side.posts%}
+    {%include tags-single.html %}
+{% endfor %}
