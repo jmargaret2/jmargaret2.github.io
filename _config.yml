@@ -4,9 +4,12 @@ description: "A personal portfolio website"
 url                      : "https://jmargaret2.github.io"
 repository               : "jmargaret2/jmargaret2.github.io"
 # Site Author
+author:
+  # name             : "Margaret Jagger"
+  #avatar           : "/assets/images/profilePicture.JPG"
   bio              : "I'm a student at The College of Wooster, double majoring in Computer Science and Music"
   # location         : "Somewhere"
-  # email            :
+  email            :
   links:
     - label: "Email"
       url: "mailto:margaretjagger2@gmail.com"
