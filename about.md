@@ -1,11 +1,10 @@
 ---
-layout: default
+layout: single
 title: About Me
 permalink: /about
 ---
-<img src="assets/images/profilePicture.JPG" alt="an image of site author, Margaret Jagger" />
 
-Hey! My name is Margaret Jagger and I'd like to say I'm a pretty big nerd when it comes to most things musical and tech. I love to spend my free time messing around with different instruments, and taking long walks with my dogs.
+I'd like to say I'm a pretty big nerd when it comes to most things musical and tech. I love to spend my free time messing around with different instruments, and taking long walks with my dogs.
 
 <img src="/assets/images/dogsSitting.jpeg" alt="From left to right, Cali and Lucky, my two goldendoodles" style="max-width:60%; max-height:80%" />
 
